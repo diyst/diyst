@@ -37,6 +37,6 @@
 
 <h1> Currently working </h1>
 
-In my free time I'm working on my project: **Vbarber**.
+In my free time I'm working on my project: **VBarber**.
 
 Release soon..
