@@ -18,7 +18,7 @@
 
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=css,typescript,cs,lua,nodejs,python" />
+    <img src="https://skillicons.dev/icons?i=css,go,cs,lua,nodejs,python" />
 </p>
 
 <p align="center">
