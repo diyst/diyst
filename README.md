@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diys&label=Profile%20views&color=0e75b6&style=flat" alt="diyst" /> </p>
 
-- 🌱 I’m currently learning **Cybersecurity**, **Adonis**
+- 🌱 I’m currently learning **Golang**, **Adonis**
 
 - 📫 How to reach me **vhlpimenta@gmail.com**
 
